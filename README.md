@@ -6,7 +6,7 @@ registered sexual offenders living within specific zipcodes. Additionally, we tr
 
 ## Motivation - why is this important?
 
-![Traintrack image](/images/median.png)
+![Traintrack image](/Images/median.png)
 We recognized that there are disproportionate gaps of wealth throughout regional neighborhoods in Fresno. This can be traced back from a historical standpoint. The photo
 above indicates the median price of houses. In the 1970s, people of color were not allowed to be on the east side of the train tracks (the dotted line) after sunset.
 So, people of color were forced to live on the west side of the train tracks. Due to the lack of funds being allocated to this area, it continues to be a low-income area
