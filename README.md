@@ -2,7 +2,8 @@
 
 In this project, we explore homes sold in the year 2019 and 2020 in Fresno and Clovis. Housing prices are affected by many different factors. In this analysis,
 we aim to analyze housing prices in Fresno using their zipcode. We engineer two new features, the number of parks located within a specific zipcode and the number of 
-registered sexual offenders living within specific zipcodes. Additionally, we trained a machine learning model to predict the price of a home located in Fresno.
+registered sexual offenders living within specific zipcodes. Additionally, we trained a machine learning model to predict the price of a home located in Fresno. All
+of this analysis is done using a Jupyter Notebook.
 
 ## Motivation - why is this important?
 
